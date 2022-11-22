@@ -1,0 +1,21 @@
+.html-home {
+  width: 300px;
+  margin: 0 auto;
+ }
+
+table, th, td {
+  border:2px solid black;
+}
+
+.gris-tit-table {
+  background-color:lightgrey;
+  color: white;
+}
+
+table tr:nth-child(even){
+  background-color:white;
+  }
+table tr:nth-child(odd){
+  background-color:darkgray;
+  }
+
